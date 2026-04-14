@@ -143,15 +143,6 @@ The CSV includes a metadata header block followed by one row per detected amplic
 
 ---
 
-## HPC usage
-
-An example PBS job script (`amplicon_finder.pbs`) is provided for running the tool on an HPC cluster with a PBS/Torque scheduler. Edit the primer sequences, size range, and directory paths at the top of the script before submitting.
-
-```bash
-qsub amplicon_finder.pbs
-```
-
----
 
 ## Citation
 
