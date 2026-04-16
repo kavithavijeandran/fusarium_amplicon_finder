@@ -28,9 +28,10 @@ The tool performs genome-wide in silico PCR screening — identifying primer bin
 
 ```
 fusarium-amplicon-finder/
-├── amplicon_finder.py          # Main Python script
-├── requirements.txt            # Python dependencies
+├── amplicon_finder.py                        # Main Python script
+├── requirements.txt                          # Python dependencies
 ├── LICENSE
+├── data_species_specific_output_files.zip    # Data Diretory
 └── README.md
 ```
 
@@ -143,6 +144,29 @@ The CSV includes a metadata header block followed by one row per detected amplic
 
 ---
 
+## Data
+
+The data/ directory contains selected datasets generated in this study to support reproducibility and transparency of the analyses.
+
+data_species_specific_output_files.zip
+Contains output files generated using the amplicon_finder pipeline for species-specific primer evaluation. This includes:
+Amplicon finder outputs
+Primer-BLAST results generated as part of this study
+
+These files represent processed outputs directly supporting the results presented in the manuscript.
+
+Large source genome datasets are not stored in this repository due to size constraints and should be accessed from their original public repositories using the accession information provided in the manuscript.
+
+---
+
+## Contributors
+Kavitha — code development, data analysis, and implementation of the amplicon finder pipeline
+
+Carol — supervision and conceptual input
+
+Alexey — supervision and conceptual input
+
+---
 
 ## Citation
 
