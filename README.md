@@ -160,7 +160,7 @@ Large source genome datasets are not stored in this repository due to size const
 ---
 
 ## Contributors
-Kavitha — code development, data analysis, and implementation of the amplicon finder pipeline
+Kavitha — code development and data analysis.
 
 Carol — supervision and conceptual input
 
