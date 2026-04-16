@@ -160,11 +160,11 @@ Large source genome datasets are not stored in this repository due to size const
 ---
 
 ## Contributors
-Kavitha — code development and data analysis.
+Kavitha Vijeandran — Code development, conceptualisation and data analysis.
 
-Carol — supervision and conceptual input
+Carol Verheecke-Vaessen— Supervision and conceptualisation.
 
-Alexey — supervision and conceptual input
+Alexey Larionov — Supervision and conceptualisation.
 
 ---
 
