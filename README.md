@@ -8,7 +8,7 @@ This repository contains the custom Python scripts developed for the in silico e
 
 > Vijeandran K, Larionov A, Cervini C, Campbell K, Walkowiak S, Pasquali M, Richard-Forget F, Brown N, Rose LJ, Verheecke-Vaessen C. *Revisiting the PCR-based molecular approaches for mycotoxigenic Fusarium species detection and quantification in wheat.* [Journal name] [Year]. DOI: [to be added upon publication]
 
-The tool performs genome-wide in silico PCR screening — identifying primer binding sites across genome assemblies (FASTA format), evaluating all possible primer orientations including reverse complements, and detecting putative amplicons within a user-defined size range. It supports degenerate IUPAC primer codes and flexible mismatch tolerance, making it suitable for evaluating legacy primers against modern genome assemblies.
+The tool performs genome-wide in silico PCR screening, identifying primer binding sites across genome assemblies (FASTA format), evaluating all possible primer orientations including reverse complements, and detecting putative amplicons within a user-defined size range. It supports degenerate IUPAC primer codes and flexible mismatch tolerance, making it suitable for evaluating legacy primers against modern genome assemblies.
 
 ---
 
@@ -162,7 +162,7 @@ Large source genome datasets are not stored in this repository due to size const
 ## Contributors
 Kavitha Vijeandran — Code development, conceptualisation and data analysis.
 
-Carol Verheecke-Vaessen— Supervision and conceptualisation.
+Carol Verheecke-Vaessen — Supervision and conceptualisation.
 
 Alexey Larionov — Supervision and conceptualisation.
 
